@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\dades\\herencia-compte-bancari-repo\\comptecorrent\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\dades\\herencia-compte-bancari-repo\\comptecorrent\\herencia\\iimposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\iimposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\dades\\herencia-compte-bancari-repo\\comptecorrent\\herencia\\comptebancari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\comptebancari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\dades\\herencia-compte-bancari-repo\\comptecorrent\\herencia\\compteestalvis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\compteestalvis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\dades\\herencia-compte-bancari-repo\\comptecorrent\\herencia\\comptecorrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\comptecorrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IImposable.cs",
+              "DocumentMoniker": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\IImposable.cs",
+              "RelativeDocumentMoniker": "Herencia\\IImposable.cs",
+              "ToolTip": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\IImposable.cs",
+              "RelativeToolTip": "Herencia\\IImposable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:14:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteBancari.cs",
+              "DocumentMoniker": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteBancari.cs",
+              "RelativeDocumentMoniker": "Herencia\\CompteBancari.cs",
+              "ToolTip": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteBancari.cs",
+              "RelativeToolTip": "Herencia\\CompteBancari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:18:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompteEstalvis.cs",
+              "DocumentMoniker": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteEstalvis.cs",
+              "RelativeDocumentMoniker": "Herencia\\CompteEstalvis.cs",
+              "ToolTip": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteEstalvis.cs",
+              "RelativeToolTip": "Herencia\\CompteEstalvis.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:56:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompteCorrent.cs",
+              "DocumentMoniker": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteCorrent.cs",
+              "RelativeDocumentMoniker": "Herencia\\CompteCorrent.cs",
+              "ToolTip": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\CompteCorrent.cs",
+              "RelativeToolTip": "Herencia\\CompteCorrent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:30:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia\\Program.cs",
+              "ToolTip": "C:\\DADES\\HERENCIA-COMPTE-BANCARI-REPO\\comptecorrent\\Herencia\\Program.cs",
+              "RelativeToolTip": "Herencia\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:54:19.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
